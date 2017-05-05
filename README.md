@@ -1,6 +1,5 @@
-# pythonprog
-url summarizer
-# For this project I'll be using libraries
+###url summarizer
+For this project I'll be using libraries
 pip install -U nltk
 pip install BeautifulSoup4
 pip install -U numpy
